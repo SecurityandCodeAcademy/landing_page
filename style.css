@@ -237,6 +237,7 @@ a:hover {
     .container {
         margin: 0 auto;
         text-align: center;
+        display: block;
     }
     .skills-section ul {
         grid-template-columns: 1fr;
